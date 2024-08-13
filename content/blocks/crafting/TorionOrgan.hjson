@@ -1,0 +1,34 @@
+name: TorionOrgan
+  description: "make Torion."
+
+  category: crafting
+  type: genericCrafter
+
+  size: 2
+  haspower: true
+  hasItem: false
+  hasLiquid; true
+  liquidCapacity: 60
+
+  consumes:{
+    power: 18
+  }
+
+  outPutLiquid: true
+  outPutLiquids: [
+    Torion/ 60.0
+  ]
+  craftTime: 36
+
+  requirements:[
+    copper/ 30
+  ]
+
+  reseach:{
+    parent: BorderHeadquarters
+    requirements: [
+      copper/ 300
+    ]
+  }
+
+  buildVisibillity: shown
