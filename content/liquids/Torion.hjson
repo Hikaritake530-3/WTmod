@@ -1,0 +1,13 @@
+name: torion
+  description: '''fuel of all "Torigger".'''
+
+  color: 91CEFF
+  berColor: 91CEFF
+  lightColor: 91CEFF
+  
+  flammability: 0.0
+  boilPoint: 0.01
+  temperatur: 0.37
+  heatCapacity: 0.01
+  viscosity: 0.5
+  explosiveness: 0.7
