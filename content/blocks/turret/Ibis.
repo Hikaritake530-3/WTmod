@@ -1,0 +1,18 @@
+name: Ibis
+  description: 
+  '''
+  A kind of sniper wewapons.
+  The bullet speed is fast, but other specs are a litte modest.
+  Can be operated with a smole amount of Torion.
+  '''
+
+  type: itemTurret
+  category: turret
+  size: 2
+  hasItem: true
+  itemCaoacity: 1
+  hasLiquid: true
+  liquidCapacity: 60
+  hasPower: false
+  
+  
