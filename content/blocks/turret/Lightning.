@@ -17,7 +17,7 @@ name: Lightning
 
 ammotypes: {
   Asteroid: {
-    bullettType: itembulletType
+    bullettType: itemBulletType
     speed: 6
     damage: 10
     lifeTime: 10
@@ -31,3 +31,25 @@ ammotypes: {
     absorbable: false
     status: SlowingDown
     ammoMutiprier: 1
+  }
+  Hound: {
+    bulletType: itemBulletType
+    speed: 4
+    damage: 8
+    lifetime: 10
+  }
+  Biper: {
+    bulletType: itemBulletType
+    speed: 5
+    damage: 9
+    lifeTime: 10
+  }
+  Meteor: {
+  bullettype: itembullettype
+  speed: 4
+  lifeTime: 10
+  damage: 15
+  splashDamage: 5
+  splashDamageRadius: 10
+  }
+
