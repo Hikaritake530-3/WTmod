@@ -1,0 +1,7 @@
+name: Asteroid
+  type: material
+  description: 
+'''The basic shooting trigger chip. 
+   Not used for architecture.
+'''
+  
