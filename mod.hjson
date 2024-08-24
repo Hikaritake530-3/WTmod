@@ -1,0 +1,6 @@
+name: "WTmod"
+  autor: "english"
+  displayName: "WTmod"
+  description: "Wprld Trigger reproduction project."
+  version: "α"
+  minGameVersion: "145"
