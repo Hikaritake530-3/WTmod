@@ -8,16 +8,15 @@ name: TorionOrgan
   haspower: true
   hasItems: false
   hasLiquids: true
-  liquidCapacity: 60
+  liquidCapacity: 120
 
   consumes:{
     power: 3
   }
   outputsLiquid: true
   outputLiquids: [
-    Torion/ 1
+    Torion/ 0.5
   ]
-  craftTime: 90
 
   requirements:[
     copper/ 30
