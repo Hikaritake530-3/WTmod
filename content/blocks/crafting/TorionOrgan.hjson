@@ -11,11 +11,11 @@ name: TorionOrgan
   liquidCapacity: 60
 
   consumes:{
-    power: 18
+    power: 3
   }
 
   outPutLiquid: true
-  outPutLiquids: [
+  outPutLiquid: [
     Torion/ 60.0
   ]
   craftTime: 36
