@@ -15,7 +15,7 @@ name: TorionOrgan
   }
   outputsLiquid: true
   outputLiquids: [
-    Torion/ 6
+    Torion/ 1
   ]
   craftTime: 90
 
