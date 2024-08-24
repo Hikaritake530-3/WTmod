@@ -13,7 +13,7 @@ name: TorionOrgan
   consumes:{
     power: 3
   }
-
+  outPutsLiquid: true
   outPutLiquids: [
     Torion/ 60.0
   ]
@@ -31,3 +31,4 @@ name: TorionOrgan
   }
 
   buildVisibillity: shown
+  buildtime: 1.0
