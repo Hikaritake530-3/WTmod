@@ -14,8 +14,7 @@ name: TorionOrgan
     power: 3
   }
 
-  outPutLiquid: true
-  outPutLiquid: [
+  outPutLiquids: [
     Torion/ 60.0
   ]
   craftTime: 36
