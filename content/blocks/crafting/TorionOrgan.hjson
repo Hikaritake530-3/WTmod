@@ -13,8 +13,8 @@ name: TorionOrgan
   consumes:{
     power: 3
   }
-  outPutsLiquid: true
-  outPutLiquids: [
+  outputsLiquid: true
+  outputLiquids: [
     Torion/ 60.0
   ]
   craftTime: 36
