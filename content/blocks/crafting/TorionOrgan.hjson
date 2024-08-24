@@ -7,7 +7,7 @@ name: TorionOrgan
   size: 2
   haspower: true
   hasItem: false
-  hasLiquid; true
+  hasLiquid: true
   liquidCapacity: 60
 
   consumes:{
