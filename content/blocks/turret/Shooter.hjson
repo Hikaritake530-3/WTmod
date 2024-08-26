@@ -12,7 +12,7 @@ name: Shooter
   liquidCapacity: 60
   hasPower: false
 
-  shot: {
+  shoot: {
     shots: 9
     shotWidth: 1
   }
