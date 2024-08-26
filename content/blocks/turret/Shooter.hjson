@@ -13,7 +13,7 @@ name: Shooter
   hasPower: false
 
   shot: {
-    shoot: 9
+    shots: 9
     shotWidth: 1
   }
   shotWidth: 9
