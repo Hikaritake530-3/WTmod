@@ -14,11 +14,11 @@ name: Shooter
 
   shoot: {
     shots: 9
-    shotWidth: 1
+    shotWidth: 9
   }
   shotWidth: 9
   recoil: 0.0
-  raload: 30
+  raload: 300
   range: 30
   inaccuracy: 0.0
 # xRand: 9
