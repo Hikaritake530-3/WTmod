@@ -19,7 +19,7 @@ name: Shooter
   inaccuracy: 0.0
   xRand: 9
 
-ammotypes: {
+ammoTypes: {
   Asteroid: {
     bullettType: itemBulletType
     speed: 6
@@ -27,7 +27,7 @@ ammotypes: {
     lifeTime: 10
     ammoMutiprier: 1
   }
-  LeadBullet: {
+/*  LeadBullet: {
     bulletType: itemBulletType
     speed: 2
     damage: 0
@@ -82,7 +82,8 @@ ammotypes: {
   splashDamage: 6
   splashDamageRadius: 10
   }
-
+*/
+}
   
 requirements: [
   copper/ 1
