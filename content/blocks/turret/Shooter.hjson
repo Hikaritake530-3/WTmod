@@ -12,7 +12,10 @@ name: Shooter
   liquidCapacity: 60
   hasPower: false
 
-  shots: 9
+  shot: {
+    shoot: 9
+    shotWidth: 1
+  }
   shotWidth: 9
   recoil: 0.0
   raload: 30
