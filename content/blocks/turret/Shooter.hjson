@@ -84,3 +84,10 @@ ammotypes: {
   }
 
   
+requirements: [
+  copper/ 1
+##ArchitecturalTorion/ 100
+  ]
+
+buildVisibility: true
+alwaysUnlock: true
