@@ -13,11 +13,12 @@ name: Shooter
   hasPower: false
 
   shots: 9
+  shotWidth: 9
   recoil: 0.0
   raload: 30
   range: 30
   inaccuracy: 0.0
-  xRand: 9
+# xRand: 9
 
 ammoTypes: {
   Asteroid: {
@@ -87,7 +88,7 @@ ammoTypes: {
   
 requirements: [
   copper/ 1
-##ArchitecturalTorion/ 100
+# ArchitecturalTorion/ 100
   ]
 
 buildVisibillity: shown
