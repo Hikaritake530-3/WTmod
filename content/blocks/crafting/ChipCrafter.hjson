@@ -1,0 +1,34 @@
+name: Engineers' Room
+  description: 
+'''
+  Randomly meke all basic shooters' Torion chips from Torion.
+  Can't synthesize.
+  '''
+  category: crafting
+type: separater
+  
+  hasLiquid: true
+  liquidCpacity: 300
+  hasPower: true
+
+consumes: {
+  power: 90
+  liquids: {
+    liquid: [
+      Torion/ 15
+    ]
+  }
+}
+
+results: [
+  Asteroid/ 1
+  Biper/ 1
+  Hound/ 1
+  Meteor/ 1
+]
+
+requirements: [
+  Copper/ 20
+# ArchitectureTorion/ 20
+]
+alwaysUnlocked: true
