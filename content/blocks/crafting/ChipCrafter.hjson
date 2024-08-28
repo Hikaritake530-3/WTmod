@@ -13,11 +13,9 @@ type: separater
 
 consumes: {
   power: 90
-  liquids: {
-    liquid: [
+  liquids: [
       Torion/ 15
-    ]
-  }
+  ]
 }
 
 results: [
@@ -28,6 +26,8 @@ results: [
   Meteor/ 1
 */
 ]
+
+craftTime: 30
 
 requirements: [
   copper/ 20
