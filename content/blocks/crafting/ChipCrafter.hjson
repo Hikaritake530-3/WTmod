@@ -6,7 +6,7 @@ name: Engineers' Room
   '''
   category: crafting
 type: separater
-  
+
   hasLiquid: true
   liquidCpacity: 300
   hasPower: true
@@ -28,7 +28,7 @@ results: [
 ]
 
 requirements: [
-  Copper/ 20
-# ArchitectureTorion/ 20
+  copper/ 20
+# ArchitectualTorion/ 20
 ]
 alwaysUnlocked: true
