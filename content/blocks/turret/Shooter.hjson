@@ -46,7 +46,7 @@ ammoTypes: {
     lifetime: 10
     homingPower: 0.05
     homingRange: 5
-  }
+  } */
   Biper: {
     bulletType: basicBulletType
     speed: 5
@@ -77,13 +77,13 @@ ammoTypes: {
           }
       }
   }
-  Meteor: {
-  bullettype: basicbullettype
-  speed: 4
-  lifeTime: 10
-  damage: 15
-  splashDamage: 6
-  splashDamageRadius: 10
+/*  Meteor: {
+    bullettype: basicbullettype
+    speed: 4
+    lifeTime: 10
+    damage: 15
+    splashDamage: 6
+    splashDamageRadius: 10
   }
 */
 }
