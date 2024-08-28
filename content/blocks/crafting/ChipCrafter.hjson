@@ -8,13 +8,13 @@ name: Engineers' Room
 type: separater
 
   hasLiquid: true
-  liquidCpacity: 300
+  liquidCapacity: 300
   hasPower: true
 
 consumes: {
-  power: 90
+  power: 0.9
   liquids: [
-      Torion/ 15
+      Torion/ 5
   ]
 }
 
