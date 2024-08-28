@@ -12,7 +12,7 @@ name: Engineers' Room
 
   hasItems: true
   itemCapacity: 10
-  hasLiquid: true
+  hasLiquids: true
   liquidCapacity: 150
   hasPower: true
 
