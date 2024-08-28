@@ -4,10 +4,13 @@ name: Engineers' Room
   Randomly meke all basic shooters' Torion chips from Torion.
   Can't synthesize.
 '''
+
+  size: 2
+
   category: crafting
   type: separater
 
-  hasItem: true
+  hasItems: true
   itemCapacity: 10
   hasLiquid: true
   liquidCapacity: 150
