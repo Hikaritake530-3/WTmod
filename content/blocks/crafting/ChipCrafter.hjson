@@ -22,9 +22,11 @@ consumes: {
 
 results: [
   Asteroid/ 1
+/*
   Biper/ 1
   Hound/ 1
   Meteor/ 1
+*/
 ]
 
 requirements: [
