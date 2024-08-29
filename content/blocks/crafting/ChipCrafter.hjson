@@ -39,4 +39,4 @@ requirements: [
 # ArchitectualTorion/ 20
 ]
 alwaysUnlocked: true
-buildVisibillity: true
+buildVisibillity: shown
