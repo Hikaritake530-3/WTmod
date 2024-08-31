@@ -13,8 +13,8 @@ name: Shooter
   hasPower: false
 
   shoot: {
-    shots: 9
-    shotWidth: 3
+    shots: 2
+    shotWidth: 2
   }
   recoil: 0.0
   raload: 300
