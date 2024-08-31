@@ -18,7 +18,7 @@ name: Shooter
   shotWidth: 3
   recoil: 0.0
   raload: 300
-  range: 30
+  range: 300
   inaccuracy: 0.0
 # xRand: 9
 
