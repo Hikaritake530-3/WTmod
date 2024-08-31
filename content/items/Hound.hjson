@@ -1,0 +1,9 @@
+name: Hound
+  type: material
+  description: 
+'''
+   A kind of unique shooting trigger chips. 
+  If you load this type of chip into the turret, the turret can fire homing bullets.
+  Not used for architecture.
+'''
+  
