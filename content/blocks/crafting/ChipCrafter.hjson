@@ -8,7 +8,7 @@ name: Engineers' Room
   size: 2
 
   category: crafting
-  type: separater
+  type: separator
 
   hasItems: true
   itemCapacity: 10
