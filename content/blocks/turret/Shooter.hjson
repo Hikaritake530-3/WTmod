@@ -3,7 +3,7 @@ name: Shooter
   Not using any weapons, shot Torion bullets directly.
   '''
 
-  type: itemTurret
+  type: Turret
   category: turret
   size: 2
   hasItem: true
@@ -66,7 +66,7 @@ ammoTypes: {
 
         fragOnHit: false
         fragOnAbsorbable: false
-        fragRandumSpread: 270
+        fragRandumSpread: 200
           fragBullet: {
             bulletType: basicBulletType
             lifeTime: 2
