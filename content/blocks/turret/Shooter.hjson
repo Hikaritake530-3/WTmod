@@ -3,7 +3,7 @@ name: Shooter
   Not using any weapons, shot Torion bullets directly.
   '''
 
-  type: DoubleTurret
+  type: Turret
   category: turret
   size: 2
   hasItem: true
@@ -14,13 +14,13 @@ name: Shooter
 
   shoot: {
     shots: 9
-    shotWidth: 3
   }
   recoil: 0.0
   raload: 300
   range: 300
   inaccuracy: 0.0
-# xRand: 9
+  xRand: 3
+  burstSpacing: 1
 
 ammoTypes: {
   Asteroid: {
