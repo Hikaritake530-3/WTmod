@@ -6,16 +6,17 @@ name: Shooter
   type: turret
   category: turret
   size: 2
-  hasItem: true
+  hasItems: true
   itemCapacity: 1
-  hasLiquid: true
+  hasLiquids: true
   liquidCapacity: 60
   hasPower: false
 
 shoot: {
   shots: 3
 }
-recoil: 0.0
+# shotwidth: 3
+  recoil: 0.0
   raload: 60000
   range: 300
   inaccuracy: 0.0
@@ -30,7 +31,7 @@ ammoTypes: {
     ammoMutiprier: 1
   }
 /*  LeadBullet: {
-    bulletType: itemBulletType
+    bulletType: basicBulletType
     speed: 2
     damage: 0
     lifeTime: 30
@@ -39,7 +40,7 @@ ammoTypes: {
     ammoMutiprier: 1
   }
   Hound: {
-    bulletType: itemBulletType
+    bulletType: basicBulletType
     speed: 4
     damage: 8
     lifetime: 10
@@ -65,7 +66,7 @@ ammoTypes: {
 
         fragOnHit: false
         fragOnAbsorbable: false
-        fragRandomSpread: 200
+        fragRandomSpread: 270
           fragBullet: {
             bulletType: basicBulletType
             lifeTime: 2
