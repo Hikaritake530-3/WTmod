@@ -72,8 +72,8 @@ ammoTypes: {
             lifeTime: 2
             speed: 5
             damage: 9
-            homingPower: 0.9
-            homingRange: 5
+            homingPower: 1.0
+            homingRange: 10
           }
       }
   }
@@ -93,5 +93,6 @@ requirements: [
 # ArchitecturalTorion/ 100
   ]
 
+buildTime: 20
 buildVisibillity: shown
 alwaysUnlock: true
