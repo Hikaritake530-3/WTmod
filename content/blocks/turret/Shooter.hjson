@@ -13,12 +13,11 @@ name: Shooter
   hasPower: false
 
   shots: 3
-  shotWidth: 3
   recoil: 0.0
   raload: 60000
   range: 300
   inaccuracy: 0.0
-# xRand: 3
+  xRand: 3
 
 ammoTypes: {
   Asteroid: {
