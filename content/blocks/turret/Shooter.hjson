@@ -15,6 +15,15 @@ name: Shooter
 shoot: {
   shots: 3
 }
+
+/*
+consumes: {
+  liquids: [
+    Torion/ 30
+  ]
+}
+*/
+
 # shotwidth: 3
   recoil: 0.0
   raload: 60000
@@ -47,7 +56,7 @@ ammoTypes: {
     homingPower: 0.05
     homingRange: 5
   } */
-  Biper: {
+ /* Biper: {
     bulletType: basicBulletType
     speed: 5
     damage: 0
@@ -76,7 +85,7 @@ ammoTypes: {
             homingRange: 10
           }
       }
-  }
+  } */
 /*  Meteor: {
     bullettype: basicbullettype
     speed: 4
@@ -95,4 +104,4 @@ requirements: [
 
 buildTime: 20
 buildVisibillity: shown
-alwaysUnlock: true
+alwaysUnlocked: true
