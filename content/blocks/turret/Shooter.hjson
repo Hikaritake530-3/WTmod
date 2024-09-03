@@ -3,7 +3,7 @@ name: Shooter
   Not using any weapons, shot Torion bullets directly.
   '''
 
-  type: Turret
+  type: doubleTurret
   category: turret
   size: 2
   hasItem: true
