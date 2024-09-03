@@ -7,7 +7,7 @@ name: Shooter
   category: turret
   size: 2
   hasItem: true
-  itemCaoacity: 1
+  itemCapacity: 1
   hasLiquid: true
   liquidCapacity: 60
   hasPower: false
@@ -15,11 +15,12 @@ name: Shooter
   shoot: {
     shots: 3
   }
+  shotWidth: 3
   recoil: 0.0
   raload: 60000
   range: 300
   inaccuracy: 0.0
-  xRand: 3
+# xRand: 3
 
 ammoTypes: {
   Asteroid: {
