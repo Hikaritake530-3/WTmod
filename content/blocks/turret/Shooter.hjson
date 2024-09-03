@@ -14,8 +14,9 @@ name: Shooter
 
   shoot: {
     shots: 3
+    shotWindth: 3
   }
-  shotWidth: 3
+# shotWidth: 3
   recoil: 0.0
   raload: 60000
   range: 300
