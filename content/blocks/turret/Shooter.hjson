@@ -3,7 +3,7 @@ name: Shooter
   Not using any weapons, shot Torion bullets directly.
   '''
 
-  type: Turret
+  type: turret
   category: turret
   size: 2
   hasItem: true
@@ -12,11 +12,8 @@ name: Shooter
   liquidCapacity: 60
   hasPower: false
 
-  shoot: {
-    shots: 3
-  # shotWindth: 3
-  }
-# shotWidth: 3
+  shots: 3
+  shotWidth: 3
   recoil: 0.0
   raload: 60000
   range: 300
