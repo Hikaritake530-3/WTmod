@@ -12,8 +12,10 @@ name: Shooter
   liquidCapacity: 60
   hasPower: false
 
+shoot: {
   shots: 3
-  recoil: 0.0
+}
+recoil: 0.0
   raload: 60000
   range: 300
   inaccuracy: 0.0
