@@ -15,7 +15,7 @@ name: Shooter
   shoot: {
     shots: 9
   }
-  shotWidth: 8
+  shotWidth: 9
   recoil: 0.0
   reload: 4500
   range: 150
