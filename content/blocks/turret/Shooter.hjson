@@ -15,9 +15,9 @@ name: Shooter
   shoot: {
     shots: 9
   }
-  shotWidth: 4
+  shotWidth: 8
   recoil: 0.0
-  raload: 4500
+  reload: 4500
   range: 150
   inaccuracy: 0.0
   xRand: 3
@@ -60,7 +60,7 @@ ammoTypes: {
     fragRandomSpread: 160
       fragBullet: {
         bulletType: basicBulletType
-        lifeTime: 2
+        lifeTime: 1
         speed: 5
         damage: 9
 
@@ -70,10 +70,10 @@ ammoTypes: {
           fragBullet: {
             bulletType: basicBulletType
             lifeTime: 1
-            speed: 5
+            speed: 7
             damage: 9
             homingPower: 1.0
-            homingRange: 5
+            homingRange: 7
           }
       }
   }
