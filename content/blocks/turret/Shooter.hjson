@@ -20,7 +20,7 @@ name: Shooter
   raload: 300
   range: 30
   inaccuracy: 0.0
-# xRand: 3
+  xRand: 3
 
 ammoTypes: {
   Asteroid: {
@@ -72,7 +72,7 @@ ammoTypes: {
             lifeTime: 2
             speed: 5
             damage: 9
-            homingPower: 0.9
+            homingPower: 1.0
             homingRange: 5
           }
       }
