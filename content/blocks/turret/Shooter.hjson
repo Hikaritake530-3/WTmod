@@ -21,7 +21,11 @@ name: Shooter
   range: 150
   inaccuracy: 0.0
   xRand: 3
-
+/*
+  chargeTime: 30
+  chargeEffects: 5
+  chargeMaxDelay: 10
+*/
 ammoTypes: {
   Asteroid: {
     bullettType: itemBulletType
@@ -38,15 +42,15 @@ ammoTypes: {
     absorbable: false
     status: SlowingDown
     ammoMutiprier: 1
-  }
+  } */
   Hound: {
     bulletType: basicBulletType
     speed: 4
     damage: 8
     lifetime: 10
     homingPower: 0.05
-    homingRange: 5
-  } */
+    homingRange: 10
+  } 
   Biper: {
     bulletType: basicBulletType
     speed: 5
