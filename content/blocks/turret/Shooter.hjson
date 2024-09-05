@@ -6,6 +6,7 @@ name: Shooter
   type: itemTurret
   category: turret
   size: 2
+  health: 3600
   hasItems: true
   itemCaoacity: 1
   hasLiquids: true
@@ -17,7 +18,7 @@ name: Shooter
   }
   shotWidth: 9
   recoil: 0.0
-  reload: 4500
+  reload: 13.3
   range: 150
   inaccuracy: 0.0
   xRand: 3
@@ -47,7 +48,7 @@ ammoTypes: {
     bulletType: basicBulletType
     speed: 4
     damage: 8
-    lifetime: 10
+    lifetime: 20
     homingPower: 0.05
     homingRange: 10
   } 
