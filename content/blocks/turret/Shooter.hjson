@@ -69,6 +69,7 @@ ammoTypes: {
         speed: 5
         damage: 9
 
+        fragBullets: 1
         fragOnHit: false
         fragOnAbsorbable: false
         fragRandomSpread: 270
