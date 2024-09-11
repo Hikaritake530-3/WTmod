@@ -1,0 +1,37 @@
+requirename: Crystallizashoner
+description: 
+'''
+make Architectual Torion.
+'''
+
+category: crafting
+type: genericCrafter
+  
+  size: 2
+  hasPower: true
+  hasLiquids: true
+  liquidCapacity: 360
+  hasItems: true
+  itemCapacity: 10
+
+consumes: {
+  power: 6
+  liquid: Torion/ 30
+}
+
+outPutItem: ArchitectualTorion/ 10
+
+craftTime: 60
+
+requirement: [
+  copper/ 1
+]
+
+buildTime: 10
+
+
+
+
+
+
+
