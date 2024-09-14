@@ -1,0 +1,7 @@
+name: Meteora
+  description: 
+'''
+  A kind of unique shooting trigger chips. 
+  If you load this type of chip into turrets, the turret can fire explosive bullets.
+  Not used for architecture.
+'''
