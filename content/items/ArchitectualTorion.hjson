@@ -1,7 +1,8 @@
 name: ArchitectualTorion
   description: 
 '''
-  Used to building Border's architecter.
+  The basic architectual material.
+  Used for building Border's architect.
   Made from Torion.
   '''
   type: material
