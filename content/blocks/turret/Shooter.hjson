@@ -83,7 +83,7 @@ ammoTypes: {
           }
       }
   }
-  Meteor: {
+  Meteora: {
     bullettype: basicbullettype
     speed: 4
     lifeTime: 10
