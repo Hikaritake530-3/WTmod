@@ -4,5 +4,6 @@ name: LeeadBullet
   A kind of unique shooting trigger chips. 
   If you load this type of chip into turrets, the turret can fire restraining bullets.
   The bullets make hexagonal pillar weight on terrget.
+  Not absorbed by shield. 
   Not used for architecture.
 '''
