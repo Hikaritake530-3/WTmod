@@ -1,0 +1,19 @@
+name: Ibis
+  descriotion: 
+'''
+  A kind Of sniper toriger.
+  High damage and high precision,but the speed is slow.
+'''
+  type: itemTurret
+  category: turret
+
+size: 2
+health: 3600
+lotateSpeed: 10
+reload: 60
+hasItems: true
+itemCapacity: 1
+hasLiquids: true
+liquidCapacity: 60
+hasPower: false
+
