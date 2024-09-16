@@ -13,6 +13,10 @@ name: Shooter
   liquidCapacity: 60
   hasPower: false
 
+consumes: {
+  liquid: Torion/ 9.999999
+}
+
   shoot: {
     shots: 9
   }
