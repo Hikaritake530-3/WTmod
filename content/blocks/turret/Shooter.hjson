@@ -8,7 +8,7 @@ name: Shooter
   size: 2
   health: 3600
   hasItems: true
-  itemCaoacity: 1
+  itemCapacity: 1
   hasLiquids: true
   liquidCapacity: 60
   hasPower: false
