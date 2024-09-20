@@ -1,0 +1,15 @@
+name: SlowingDown
+  description: 
+'''
+  slow down....
+'''
+type: statusEffect
+  
+  speedMultiplir: 0.5
+  reloadMultiplir: 0.85
+
+/*
+affinities: [
+  SlowingDown
+]
+*/
