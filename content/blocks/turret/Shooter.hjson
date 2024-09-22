@@ -61,7 +61,7 @@ ammoTypes: {
     speed: 5
     damage: 0
     lifeTime: 9
-    hitSize: 20
+    hitSize: 5
 
     fragBullets: 1
     fragOnHit: true
@@ -83,7 +83,7 @@ ammoTypes: {
             speed: 5
             damage: 9
             homingPower: 1.0
-            homingRange: 7
+            homingRange: 10
           }
       }
   }
@@ -94,6 +94,8 @@ ammoTypes: {
     damage: 15
     splashDamage: 6
     splashDamageRadius: 10
+    knokcBack: 0.7
+    impact: true
   }
 }
   
