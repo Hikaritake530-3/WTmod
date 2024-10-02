@@ -14,11 +14,11 @@ reload: 60
 hasItems: true
 itemCapacity: 1
 hasLiquids: true
-liquidCapacity: 60
+liquidCapacity: 70
 hasPower: false
 
 consume: {
-  liquid: Torion/ 39.9999
+  liquid: Torion/ 35
 }
 
 recoil: 1.0
