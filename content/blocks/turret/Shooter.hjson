@@ -10,11 +10,11 @@ name: Shooter
   hasItems: true
   itemCapacity: 1
   hasLiquids: true
-  liquidCapacity: 60
+  liquidCapacity: 30
   hasPower: false
 
 consumes: {
-  liquid: Torion/ 9.999999
+  liquid: Torion/ 10
 }
 
   shoot: {
