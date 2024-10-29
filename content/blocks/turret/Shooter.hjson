@@ -104,5 +104,5 @@ requirements: [
 # ArchitecturalTorion/ 100
   ]
 
-buildVisibillity: shown
+buildVisibility: shown
 alwaysUnlocked: true
